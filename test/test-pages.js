@@ -1,11 +1,5 @@
 let expect = require("chai").expect
-let Authorization = require('../challenge.js')
-
-
-// chai.config.truncateThreshold = 0;
-// const {assert, expect, should} = chai;
-
-// let expect = require("chai").expect
+let Authorization = require('../src/challenge.js')
 
 describe("Authorization", () => {
   beforeEach(() => {

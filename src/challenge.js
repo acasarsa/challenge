@@ -44,4 +44,4 @@ class Authorization {
   }
 }
 
-// export default Authorization
+module.exports = Authorization;
