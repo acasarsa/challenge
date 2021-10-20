@@ -20,4 +20,4 @@ npm test
 ```
 ## Notes
 
-This took about an hour to complete with full test coverage based on the provided instructions. 
+This took about an hour to complete with full test coverage based on the provided instructions. **Note** on the lack of commits showing progress. I wrote this originally in the qualified IDE and copied over the code after completing it. 
